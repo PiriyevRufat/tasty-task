@@ -1,0 +1,9 @@
+
+.homepage-header{
+    position: fixed;
+    z-index: 101;
+    gap: 200px;
+}
+.homepage-header span{
+    color: white;
+}
